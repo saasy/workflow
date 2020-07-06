@@ -1,5 +1,5 @@
 # workflow
-Create a workflow for releases.
+Create a workflow for releases on the 25th of every month.
 
 The workflow is as below:
 
