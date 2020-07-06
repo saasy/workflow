@@ -3,7 +3,7 @@ pseudo code
 Initial Function()
 {
 
-  //Sample code
+  //This is feature1 - login
 
 }
 
